@@ -1,0 +1,92 @@
+p {
+  color: #3e3e3e;
+  font-family: "Roboto", sans-serif;
+}
+h1,
+h2 {
+  color: #363958;
+  text-transform: uppercase;
+  font-family: "Bebas Neue", cursive;
+}
+h1 {
+  font-size: 80px;
+}
+h2 {
+  font-size: 48px;
+}
+h3 {
+  color: #363958;
+  font-size: 24px;
+  font-weight: bold;
+}
+.price {
+  color: #fabe4c;
+  font-size: 36px;
+  font-weight: 700;
+}
+.link-button {
+  color: white;
+  padding: 10px 20px;
+  background-color: #a4bc46;
+}
+.navbar img {
+  width: 250px;
+}
+.pen-nav {
+  font-size: 1em;
+  font-weight: 700;
+  margin-left: auto;
+}
+
+header {
+  width: 100%;
+  background-color: #fffbf0;
+}
+.text-highlight {
+  color: #fabe4c;
+}
+.pen-banner img {
+  width: 500px;
+}
+.box-card {
+  border: none;
+}
+.box-card img {
+  background-color: #f1f1f1;
+}
+.box-card-footer {
+  border: none;
+  background-color: white;
+}
+.pen-box img {
+  width: 70px;
+}
+.pen-box {
+  padding-left: 20px;
+  border-radius: 20px;
+}
+#about {
+  height: 600px;
+}
+.pen-shop img {
+  width: 100%;
+  margin-top: 20%;
+}
+.pen-touch {
+  height: 300px;
+  background-color: #fffbf0;
+}
+.pen-categories img {
+  width: 100px;
+}
+.pen-categorie-bg {
+  background-color: #f7f7f7;
+}
+.footer-area {
+  background-color: #363958;
+}
+.company-logo img {
+  width: 300px;
+  margin-bottom: 30px;
+}
+@media;
